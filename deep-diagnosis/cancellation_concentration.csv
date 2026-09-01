@@ -1,0 +1,21 @@
+﻿维度,维度取值,总单量,取消量,取消率,占全部取消量比
+hotel,City Hotel,79330,33102,0.4173,0.7485
+hotel,Resort Hotel,40060,11122,0.2776,0.2515
+market_segment,Online TA,56477,20739,0.3672,0.469
+market_segment,Groups,19811,12097,0.6106,0.2735
+market_segment,Offline TA/TO,24219,8311,0.3432,0.1879
+market_segment,Direct,12606,1934,0.1534,0.0437
+market_segment,Corporate,5295,992,0.1873,0.0224
+market_segment,Complementary,743,97,0.1306,0.0022
+market_segment,Aviation,237,52,0.2194,0.0012
+distribution_channel,TA/TO,97870,40152,0.4103,0.9079
+distribution_channel,Direct,14645,2557,0.1746,0.0578
+distribution_channel,Corporate,6677,1474,0.2208,0.0333
+distribution_channel,GDS,193,37,0.1917,0.0008
+deposit_type,No Deposit,104641,29694,0.2838,0.6714
+deposit_type,Non Refund,14587,14494,0.9936,0.3277
+deposit_type,Refundable,162,36,0.2222,0.0008
+customer_type,Transient,89613,36514,0.4075,0.8257
+customer_type,Transient-Party,25124,6389,0.2543,0.1445
+customer_type,Contract,4076,1262,0.3096,0.0285
+customer_type,Group,577,59,0.1023,0.0013

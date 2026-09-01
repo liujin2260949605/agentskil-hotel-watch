@@ -1,0 +1,6 @@
+﻿维度,维度取值,总单量,取消量,取消率,样本量标记,风险标记
+distribution_channel,Undefined,5,4,0.8,小样本(<30),仅展示
+distribution_channel,TA/TO,97870,40152,0.4103,充足(>=100),风险信号
+distribution_channel,Corporate,6677,1474,0.2208,充足(>=100),正常
+distribution_channel,GDS,193,37,0.1917,充足(>=100),正常
+distribution_channel,Direct,14645,2557,0.1746,充足(>=100),正常

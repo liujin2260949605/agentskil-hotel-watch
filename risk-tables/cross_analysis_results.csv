@@ -1,0 +1,54 @@
+﻿分析组,组合,总单量,取消量,取消率,样本量标记,风险标记
+hotel×market_segment,City Hotel × Groups,13975,9623,0.6886,充足(>=100),重点风险
+hotel×market_segment,City Hotel × Offline TA/TO,16747,7173,0.4283,充足(>=100),风险信号
+hotel×market_segment,Resort Hotel × Groups,5836,2474,0.4239,充足(>=100),风险信号
+hotel×market_segment,City Hotel × Undefined,2,2,1.0,小样本(<30),仅展示
+hotel×market_segment,City Hotel × Online TA,38748,14491,0.374,充足(>=100),正常
+hotel×market_segment,Resort Hotel × Online TA,17729,6248,0.3524,充足(>=100),正常
+hotel×market_segment,City Hotel × Aviation,237,52,0.2194,充足(>=100),正常
+hotel×market_segment,City Hotel × Corporate,2986,641,0.2147,充足(>=100),正常
+hotel×market_segment,City Hotel × Direct,6093,1056,0.1733,充足(>=100),正常
+hotel×market_segment,Resort Hotel × Complementary,201,33,0.1642,充足(>=100),正常
+hotel×market_segment,Resort Hotel × Offline TA/TO,7472,1138,0.1523,充足(>=100),正常
+hotel×market_segment,Resort Hotel × Corporate,2309,351,0.152,充足(>=100),正常
+hotel×market_segment,Resort Hotel × Direct,6513,878,0.1348,充足(>=100),正常
+hotel×market_segment,City Hotel × Complementary,542,64,0.1181,充足(>=100),正常
+deposit_type×customer_type,Non Refund × Contract,544,544,1.0,充足(>=100),重点风险【待人工审核】
+deposit_type×customer_type,Non Refund × Transient,12909,12909,1.0,充足(>=100),重点风险【待人工审核】
+deposit_type×customer_type,Non Refund × Transient-Party,1134,1041,0.918,充足(>=100),重点风险【待人工审核】
+deposit_type×customer_type,Refundable × Contract,2,2,1.0,小样本(<30),仅展示
+deposit_type×customer_type,Refundable × Transient,20,20,1.0,小样本(<30),仅展示
+deposit_type×customer_type,Refundable × Group,8,0,0.0,小样本(<30),仅展示
+deposit_type×customer_type,No Deposit × Transient,76684,23585,0.3076,充足(>=100),正常
+deposit_type×customer_type,No Deposit × Transient-Party,23858,5334,0.2236,充足(>=100),正常
+deposit_type×customer_type,No Deposit × Contract,3530,716,0.2028,充足(>=100),正常
+deposit_type×customer_type,Refundable × Transient-Party,132,14,0.1061,充足(>=100),正常
+deposit_type×customer_type,No Deposit × Group,569,59,0.1037,充足(>=100),正常
+lead_time_bucket×is_canceled,180+,24692,14077,0.5701,充足(>=100),风险信号
+lead_time_bucket×is_canceled,91-180,26439,11821,0.4471,充足(>=100),风险信号
+lead_time_bucket×is_canceled,31-90,29553,11141,0.377,充足(>=100),正常
+lead_time_bucket×is_canceled,8-30,18960,5283,0.2786,充足(>=100),正常
+lead_time_bucket×is_canceled,0-7,19746,1902,0.0963,充足(>=100),正常
+adr_bucket×is_canceled,101-150,35244,13724,0.3894,充足(>=100),正常
+adr_bucket×is_canceled,51-100,55641,21669,0.3894,充足(>=100),正常
+adr_bucket×is_canceled,200+,4929,1892,0.3839,充足(>=100),正常
+adr_bucket×is_canceled,151-200,11579,4395,0.3796,充足(>=100),正常
+adr_bucket×is_canceled,0-50,10037,2331,0.2322,充足(>=100),正常
+adr_bucket×is_canceled,<=0,1960,213,0.1087,充足(>=100),正常
+total_of_special_requests×is_canceled,0,70318,33556,0.4772,充足(>=100),风险信号
+total_of_special_requests×is_canceled,2,12969,2866,0.221,充足(>=100),正常
+total_of_special_requests×is_canceled,1,33226,7318,0.2202,充足(>=100),正常
+total_of_special_requests×is_canceled,3,2497,446,0.1786,充足(>=100),正常
+total_of_special_requests×is_canceled,4,340,36,0.1059,充足(>=100),正常
+total_of_special_requests×is_canceled,5,40,2,0.05,中等(30-99),正常
+distribution_channel×deposit_type,TA/TO × Non Refund,13651,13598,0.9961,充足(>=100),重点风险【待人工审核】
+distribution_channel×deposit_type,Direct × Non Refund,398,388,0.9749,充足(>=100),重点风险【待人工审核】
+distribution_channel×deposit_type,Corporate × Non Refund,538,508,0.9442,充足(>=100),重点风险【待人工审核】
+distribution_channel×deposit_type,TA/TO × Refundable,60,25,0.4167,中等(30-99),风险信号
+distribution_channel×deposit_type,Undefined × No Deposit,5,4,0.8,小样本(<30),仅展示
+distribution_channel×deposit_type,Corporate × Refundable,4,1,0.25,小样本(<30),仅展示
+distribution_channel×deposit_type,TA/TO × No Deposit,84159,26529,0.3152,充足(>=100),正常
+distribution_channel×deposit_type,GDS × No Deposit,193,37,0.1917,充足(>=100),正常
+distribution_channel×deposit_type,Corporate × No Deposit,6135,965,0.1573,充足(>=100),正常
+distribution_channel×deposit_type,Direct × No Deposit,14149,2159,0.1526,充足(>=100),正常
+distribution_channel×deposit_type,Direct × Refundable,98,10,0.102,中等(30-99),正常

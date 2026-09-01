@@ -1,0 +1,5 @@
+﻿维度,维度取值,总单量,取消量,取消率,样本量标记,风险标记
+customer_type,Transient,89613,36514,0.4075,充足(>=100),风险信号
+customer_type,Contract,4076,1262,0.3096,充足(>=100),正常
+customer_type,Transient-Party,25124,6389,0.2543,充足(>=100),正常
+customer_type,Group,577,59,0.1023,充足(>=100),正常

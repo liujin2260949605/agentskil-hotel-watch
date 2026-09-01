@@ -1,0 +1,11 @@
+﻿分析组,组合,总单量,取消量,取消率,样本量标记,风险标记
+deposit_type×customer_type,Non Refund × Contract,544,544,1.0,充足(>=100),重点风险【待人工审核】
+deposit_type×customer_type,Non Refund × Transient,12909,12909,1.0,充足(>=100),重点风险【待人工审核】
+distribution_channel×deposit_type,TA/TO × Non Refund,13651,13598,0.9961,充足(>=100),重点风险【待人工审核】
+distribution_channel×deposit_type,Direct × Non Refund,398,388,0.9749,充足(>=100),重点风险【待人工审核】
+distribution_channel×deposit_type,Corporate × Non Refund,538,508,0.9442,充足(>=100),重点风险【待人工审核】
+deposit_type×customer_type,Non Refund × Transient-Party,1134,1041,0.918,充足(>=100),重点风险【待人工审核】
+hotel×market_segment,City Hotel × Groups,13975,9623,0.6886,充足(>=100),重点风险
+lead_time_bucket×is_canceled,180+,24692,14077,0.5701,充足(>=100),风险信号
+total_of_special_requests×is_canceled,0,70318,33556,0.4772,充足(>=100),风险信号
+lead_time_bucket×is_canceled,91-180,26439,11821,0.4471,充足(>=100),风险信号

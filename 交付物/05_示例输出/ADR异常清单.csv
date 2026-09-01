@@ -1,0 +1,3129 @@
+﻿hotel,market_segment,customer_type,deposit_type,lead_time,is_canceled,adr,异常类型
+Resort Hotel,Direct,Transient,No Deposit,342,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,737,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,32,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,111,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,8,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,8,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,57,1,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,57,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,16,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,73,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,30,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,31,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Contract,No Deposit,8,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,52,0,280.74,adr>P99
+Resort Hotel,Offline TA/TO,Contract,No Deposit,42,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,46,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,21,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,94,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,65,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,9,0,268.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,49,1,267.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,4,1,277.5,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,75,0,276.43,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,81,0,277.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,68,0,254.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,90,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,90,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,34,1,274.93,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,2,1,258.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,47,0,255.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,51,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,38,0,266.4,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,34,1,271.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,22,1,266.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,22,1,262.0,adr>P99
+Resort Hotel,Direct,Transient-Party,No Deposit,31,0,299.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,33,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,10,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,10,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,35,0,260.71,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,79,1,259.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,58,0,261.4,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,21,0,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,304,1,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,297,1,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Group,No Deposit,333,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,336,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,30,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Group,No Deposit,340,1,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,175,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Group,No Deposit,347,1,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,349,1,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,6,1,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,6,1,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,352,1,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Group,No Deposit,354,1,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Group,No Deposit,361,1,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,338,1,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,328,1,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,328,1,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,328,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,13,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,330,1,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,334,1,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,334,1,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,334,1,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,7,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,153,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,153,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,153,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,121,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,28,1,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,28,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,35,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,10,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,36,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,54,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Contract,No Deposit,89,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,42,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,42,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,74,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,74,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,36,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,56,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,15,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,28,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,20,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,82,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,44,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,66,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,140,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,71,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,113,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,49,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,49,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,165,1,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,165,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,165,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,165,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,165,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,165,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,165,1,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,165,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,165,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,165,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,52,0,332.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,66,1,270.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,55,1,276.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,12,1,0.0,adr<=0
+Resort Hotel,Groups,Transient,No Deposit,64,1,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,112,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,112,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,7,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,7,1,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,20,1,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,20,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,141,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,136,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,136,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,136,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,169,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,182,0,0.0,adr<=0
+Resort Hotel,Groups,Transient,No Deposit,171,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,171,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,210,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,183,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,185,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,191,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Contract,No Deposit,252,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,236,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,237,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,213,0,0.0,adr<=0
+Resort Hotel,Groups,Transient,No Deposit,40,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,126,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,126,1,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,229,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,221,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,322,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,15,1,272.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,149,1,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,102,1,280.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,109,1,287.0,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,46,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,35,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,131,1,288.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,70,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,37,1,259.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,142,1,292.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,87,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,141,1,266.5,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,16,1,253.57,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,78,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,161,1,256.5,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,5,1,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,220,1,282.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,16,1,283.32,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,23,1,272.7,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,145,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,20,1,299.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,177,1,298.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,33,1,289.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,199,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,47,1,274.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,9,1,299.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,91,1,273.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,52,1,269.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,148,1,269.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,167,1,254.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,148,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,141,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,13,1,369.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,150,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,55,1,278.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,30,1,271.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,112,1,254.31,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,13,1,261.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,132,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,13,1,256.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,152,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,13,1,291.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,114,1,279.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,140,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,8,1,254.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,99,1,277.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,24,1,299.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,19,1,258.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,57,1,269.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,85,1,263.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,105,1,309.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,133,1,289.9,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,87,1,261.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,154,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,20,1,256.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,75,1,314.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,75,1,266.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,155,1,258.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,143,1,286.79,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,137,1,281.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,134,1,274.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,51,1,275.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,149,1,256.75,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,165,1,288.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,159,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,59,1,274.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,26,1,304.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,26,1,286.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,140,1,329.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,100,1,281.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,55,1,274.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,18,1,271.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,54,1,322.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,41,1,287.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,6,1,269.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,51,1,265.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,74,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,95,1,253.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,41,1,322.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,42,1,269.0,adr>P99
+Resort Hotel,Offline TA/TO,Contract,No Deposit,223,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,77,1,264.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,50,1,254.0,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,233,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,76,1,292.4,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,19,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,144,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,12,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,100,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,79,1,0.0,adr<=0
+Resort Hotel,Groups,Transient,No Deposit,18,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,23,1,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Group,No Deposit,0,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,44,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient-Party,No Deposit,14,1,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,31,1,340.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,95,1,384.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,44,1,302.11,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,72,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,319,1,382.0,adr>P99
+Resort Hotel,Direct,Transient-Party,No Deposit,42,1,275.0,adr>P99
+Resort Hotel,Direct,Transient-Party,No Deposit,42,1,275.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,18,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,4,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,44,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,12,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,12,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,8,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,8,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,62,1,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,8,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,65,1,262.5,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,19,1,260.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,30,1,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,30,1,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,30,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,33,1,273.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,36,1,261.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,77,1,311.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,98,1,258.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,57,1,288.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,342,1,265.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,342,1,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,57,1,300.86,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,102,1,292.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,277,1,259.86,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,6,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,65,1,264.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,3,1,265.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,186,1,274.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,61,1,270.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,33,1,303.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,217,1,293.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,23,1,275.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,110,1,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,87,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,33,1,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,20,1,272.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,67,1,293.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,66,1,253.25,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,148,1,311.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,212,1,289.6,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,51,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,25,1,338.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,190,1,302.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,42,1,342.29,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,190,1,274.45,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,195,1,290.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,194,1,290.67,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,55,1,260.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,7,1,255.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,43,1,255.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,72,1,306.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,176,1,303.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,116,1,289.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,91,1,278.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,127,1,289.5,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,82,1,317.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,28,1,353.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,82,1,257.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,28,1,315.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,151,1,265.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,139,1,278.57,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,44,1,315.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,70,1,277.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,154,1,270.71,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,84,1,277.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,207,1,292.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,95,1,305.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,12,1,299.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,347,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,196,1,292.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,15,1,255.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,23,1,255.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,148,1,267.86,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,157,1,266.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,198,1,292.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,191,1,292.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,33,1,257.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,1,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,16,1,279.5,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,16,1,310.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,69,1,257.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,33,1,315.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,141,1,278.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,19,1,315.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,116,1,287.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,23,1,363.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,20,1,363.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,56,1,305.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,358,1,266.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,342,1,266.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,56,1,257.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,188,1,311.7,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,109,1,294.86,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,125,1,299.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,142,1,309.1,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,75,1,257.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,26,1,266.3,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,136,1,301.43,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,28,1,258.27,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,28,1,315.71,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,378,1,450.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,15,1,264.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,205,1,300.4,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,205,1,300.4,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,231,1,253.33,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,76,1,257.34,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,22,1,266.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,153,1,282.29,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,83,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,28,1,269.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,34,1,283.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,93,1,378.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,51,1,358.75,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,91,1,328.0,adr>P99
+Resort Hotel,Online TA,Transient,Non Refund,8,1,330.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,341,1,259.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,333,1,292.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,119,1,269.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,142,1,298.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,45,1,378.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,141,1,310.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,98,1,262.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,33,1,323.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,33,1,297.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,128,1,269.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,126,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,117,1,303.7,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,113,1,294.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,174,1,275.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,41,1,378.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,128,1,317.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,88,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,138,1,298.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,105,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,260,1,292.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,328,1,292.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,314,1,297.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,129,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,198,1,258.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,116,1,392.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,116,1,294.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,50,1,280.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,91,1,273.25,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,45,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,184,1,264.29,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,184,1,259.43,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,98,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,238,1,297.38,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,161,1,300.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,224,1,303.2,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,47,1,340.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,187,1,256.57,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,46,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,130,1,261.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,59,1,437.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,0,1,264.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,53,1,388.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,175,1,274.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,99,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,133,1,254.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,146,1,310.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,33,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,295,1,297.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,358,1,308.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,16,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,15,1,273.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,97,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,15,1,310.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,133,1,264.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,16,1,308.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,129,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,40,1,289.8,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,69,1,378.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,168,1,338.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,40,1,311.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,177,1,318.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,40,1,289.8,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,179,1,290.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,358,1,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,84,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,358,1,290.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,65,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,117,1,282.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,19,1,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,88,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,33,1,330.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,76,1,265.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,44,1,257.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,39,1,257.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,108,1,340.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,118,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,161,1,268.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,360,1,343.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,173,1,254.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,90,1,289.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,60,1,255.45,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,60,1,255.45,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,19,1,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,25,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,21,1,340.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,34,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,295,1,297.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,119,1,378.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,122,1,295.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,144,1,278.14,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,15,1,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,101,1,280.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,26,1,319.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,181,1,268.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,43,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,20,1,255.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,72,1,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,90,1,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,167,1,331.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,172,1,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,74,1,303.33,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,143,1,295.67,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,143,1,295.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,29,1,342.17,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,17,1,262.38,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,66,1,284.86,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,47,1,340.86,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,87,1,299.43,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,17,1,294.29,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,40,1,293.86,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,51,1,290.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,51,1,290.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,22,1,295.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,47,1,289.8,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,47,1,253.8,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,26,1,286.25,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,27,1,341.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,112,1,312.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,120,1,297.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,120,1,265.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,237,1,293.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,72,1,328.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,92,1,284.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,95,1,290.0,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,131,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Group,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,122,0,253.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,152,0,254.0,adr>P99
+Resort Hotel,Corporate,Transient-Party,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,25,0,335.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,14,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,22,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,14,1,0.0,adr<=0
+Resort Hotel,Groups,Transient,No Deposit,12,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,19,0,288.1,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,37,0,275.25,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,38,0,367.0,adr>P99
+Resort Hotel,Corporate,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Groups,Group,No Deposit,280,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,195,0,-6.38,adr<=0
+Resort Hotel,Complementary,Transient-Party,No Deposit,252,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,1,0,508.0,adr>P99
+Resort Hotel,Corporate,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient-Party,No Deposit,24,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,112,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient-Party,No Deposit,31,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,15,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,94,0,317.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,109,0,318.82,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,468,1,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,468,1,0.0,adr<=0
+Resort Hotel,Online TA,Group,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,211,0,256.0,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,71,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,103,0,297.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,34,0,253.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,21,0,266.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,14,0,279.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,78,0,271.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,35,0,274.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,83,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,15,0,258.43,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,59,0,264.5,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,27,0,256.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Groups,Transient,No Deposit,244,0,0.0,adr<=0
+Resort Hotel,Direct,Transient-Party,No Deposit,22,0,259.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,254,0,0.0,adr<=0
+Resort Hotel,Groups,Transient,No Deposit,222,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,239,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,239,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,34,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,207,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,65,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,272,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,13,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,221,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,285,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,285,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,287,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,287,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,287,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,168,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Groups,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,292,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,12,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,82,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,7,1,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,36,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,289,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,7,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,13,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,16,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,22,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,11,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,14,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,24,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,24,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,284.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,67,1,300.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,70,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,23,1,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,21,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,31,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Direct,Transient-Party,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,18,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,10,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,11,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,11,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,18,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,18,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Direct,Transient-Party,No Deposit,26,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,7,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,7,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,33,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,19,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient-Party,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,164,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,41,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,46,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,30,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,30,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,26,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,7,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,56,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,11,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,76,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,7,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Groups,Group,No Deposit,342,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,50,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,13,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,25,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,73,0,0.0,adr<=0
+Resort Hotel,Direct,Transient-Party,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,41,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,28,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,28,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,33,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,21,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,73,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,83,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,58,0,0.0,adr<=0
+Resort Hotel,Groups,Group,No Deposit,140,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,123,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,47,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,73,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,12,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,29,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,73,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,112,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,105,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,101,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Contract,No Deposit,105,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,59,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,99,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,21,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Contract,No Deposit,115,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,26,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,18,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,90,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,101,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,129,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,27,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,6,1,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,143,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,36,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,158,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,8,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,170,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Contract,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,41,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Group,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,85,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,85,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,85,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,20,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,7,1,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,101,0,274.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,37,0,254.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,17,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,17,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,169,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,123,1,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,3,0,252.17,adr>P99
+Resort Hotel,Corporate,Transient,No Deposit,30,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,45,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,6,0,282.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,22,0,311.33,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,89,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,23,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,133,0,263.57,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,45,0,262.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,72,0,287.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,39,0,271.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,39,0,271.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,100,0,296.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,24,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,24,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,24,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,28,0,271.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,15,0,295.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,101,0,257.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,50,0,276.6,adr>P99
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,104,0,252.6,adr>P99
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,104,0,252.6,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,38,0,271.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,38,0,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,48,0,253.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,158,0,278.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,96,0,281.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,138,0,318.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,1,0,276.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,2,0,259.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,85,0,308.4,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,112,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,112,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,23,0,274.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,4,0,301.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,37,0,260.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,10,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,2,0,281.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,126,0,302.86,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,19,0,288.1,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,17,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,4,0,257.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,2,0,307.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,17,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,27,0,264.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,33,0,274.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,1,0,282.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,81,0,265.83,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,13,0,263.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,11,0,340.71,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,88,0,283.0,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,178,0,283.2,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,6,0,273.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,117,0,253.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,234,0,263.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,190,0,336.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,42,0,259.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,34,0,253.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,94,0,318.71,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,4,0,268.33,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,16,0,352.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,2,0,335.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,31,0,359.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,4,0,253.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,22,0,310.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,14,0,353.67,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,53,0,269.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,53,0,269.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,1,0,276.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,26,0,313.71,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,271.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,14,0,262.6,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,179,0,288.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,23,0,268.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,138,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,55,0,269.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,86,0,276.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,17,0,256.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,17,0,268.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,18,0,357.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,13,0,261.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,8,0,261.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,55,0,286.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,129,0,327.4,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,21,0,296.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,37,0,327.6,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,144,0,329.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,14,0,268.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,37,0,256.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,51,0,281.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,17,0,272.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,56,0,253.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,39,0,263.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,32,0,254.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,147,0,271.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,49,0,279.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,25,0,263.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,87,0,279.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,12,0,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,6,0,359.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,56,0,322.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,47,0,315.38,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,34,0,306.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,8,0,286.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,65,0,278.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,117,0,253.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,96,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,36,0,253.16,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,24,0,299.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,17,0,270.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,16,0,293.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,16,0,261.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,2,0,253.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,1,0,253.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,11,0,261.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,20,0,257.67,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,107,0,271.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,49,0,301.2,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,59,0,329.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,49,0,286.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,18,0,310.2,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,115,0,271.0,adr>P99
+Resort Hotel,Direct,Transient-Party,No Deposit,181,0,265.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,20,0,254.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,1,0,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,13,0,264.16,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,27,0,288.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,25,0,352.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,14,0,265.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,128,0,317.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,54,0,279.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,28,0,273.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,17,0,311.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,26,0,254.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,136,0,286.6,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,36,0,285.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,117,0,275.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,33,0,270.1,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,26,0,268.5,adr>P99
+Resort Hotel,Direct,Transient-Party,No Deposit,79,0,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,56,0,261.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,58,0,269.0,adr>P99
+Resort Hotel,Direct,Transient-Party,No Deposit,12,0,274.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,10,0,300.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,15,0,297.29,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,104,0,0.0,adr<=0
+Resort Hotel,Direct,Group,No Deposit,7,0,254.1,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,139,0,268.75,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,35,0,352.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,144,0,254.62,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,9,0,271.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,82,0,318.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,0,0,281.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,85,0,283.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,19,0,296.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,170,0,284.86,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,127,0,297.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,8,0,258.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,12,0,293.1,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,72,0,261.25,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,88,0,279.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,85,0,271.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,88,0,286.1,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,68,0,279.36,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,60,0,281.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,2,0,291.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,60,0,252.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,4,0,258.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,25,0,311.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,158,0,357.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,135,0,266.1,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,45,0,270.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,261.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,4,0,269.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,14,0,261.33,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,86,0,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,22,0,281.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,23,0,283.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,97,0,349.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,122,0,265.83,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,45,0,308.14,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,39,0,270.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,11,0,292.71,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,30,0,286.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,39,0,270.38,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,162,0,308.57,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,13,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,13,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,32,0,274.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,40,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,6,0,256.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,25,0,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,15,0,263.09,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,74,0,269.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,69,0,273.9,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,68,0,265.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,84,0,297.57,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,248,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,33,0,253.25,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,89,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,31,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,10,0,307.5,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,174,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,21,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,542,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,60,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,10,1,0.0,adr<=0
+Resort Hotel,Direct,Transient-Party,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Groups,Transient,No Deposit,48,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,172,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,18,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,17,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,231,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,12,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,12,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,23,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,12,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,338,0,0.0,adr<=0
+Resort Hotel,Groups,Transient,No Deposit,14,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,41,0,331.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,389,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,389,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,34,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,98,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,34,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,39,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,43,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,39,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,13,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,18,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,8,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,30,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,29,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,31,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,65,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,32,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,67,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,14,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,34,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,45,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,37,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,37,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,25,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,22,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient-Party,No Deposit,14,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,14,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,48,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,102,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient-Party,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient-Party,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,8,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,33,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Group,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,13,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,99,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,103,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,98,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,29,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,29,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,62,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,12,0,0.0,adr<=0
+Resort Hotel,Online TA,Group,No Deposit,69,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,340.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,340.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,340.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient,No Deposit,128,0,340.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,45,0,295.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,62,0,273.13,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,128,0,325.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,325.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,45,0,367.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,325.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,128,0,305.0,adr>P99
+Resort Hotel,Groups,Transient,No Deposit,31,0,340.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,325.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,31,0,305.0,adr>P99
+Resort Hotel,Groups,Transient-Party,No Deposit,198,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,196,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,78,0,326.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,8,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,45,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,41,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,41,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,41,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,41,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,41,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,121,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,11,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,30,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,43,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,46,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,23,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,65,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,109,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient-Party,No Deposit,94,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,40,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,49,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,15,0,0.0,adr<=0
+Resort Hotel,Direct,Transient-Party,No Deposit,172,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,12,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,28,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,23,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,71,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,15,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,15,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,15,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,16,0,270.0,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,8,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,109,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,221,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,302,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Contract,No Deposit,275,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Contract,No Deposit,74,0,0.0,adr<=0
+Resort Hotel,Offline TA/TO,Contract,No Deposit,208,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,213,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,25,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,33,0,270.0,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,13,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,25,0,0.0,adr<=0
+Resort Hotel,Groups,Transient-Party,No Deposit,388,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,23,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,38,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,79,0,258.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,18,0,263.0,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,49,0,271.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,91,0,258.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,57,0,288.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,4,0,265.25,adr>P99
+Resort Hotel,Offline TA/TO,Contract,No Deposit,321,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+Resort Hotel,Corporate,Transient-Party,No Deposit,87,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,17,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,50,0,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,57,0,264.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,80,0,308.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,1,0,257.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,122,0,264.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,3,0,322.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,11,0,315.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,5,0,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,125,0,274.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,3,0,279.0,adr>P99
+Resort Hotel,Direct,Transient-Party,No Deposit,182,0,0.0,adr<=0
+Resort Hotel,Direct,Transient-Party,No Deposit,182,0,0.0,adr<=0
+Resort Hotel,Direct,Transient-Party,No Deposit,182,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,63,0,276.83,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,5,0,284.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,66,0,292.75,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,33,0,292.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,46,0,285.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,3,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,3,0,271.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,106,0,259.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient-Party,No Deposit,1,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,0,0,273.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,68,0,264.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,35,0,277.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,254.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,180,0,303.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,143,0,299.2,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,2,0,287.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,152,0,296.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,336,0,281.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,72,0,271.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,77,0,329.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,145,0,256.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,9,0,256.5,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,17,0,255.84,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,91,0,377.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,14,0,298.71,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,30,0,311.25,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,30,0,296.75,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,22,0,299.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,9,0,359.5,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,20,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,72,0,306.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,80,0,253.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,80,0,257.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,23,0,258.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,226,0,309.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,37,0,354.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,59,0,305.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,26,0,315.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,117,0,274.6,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,130,0,252.3,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,163,0,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,149,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,163,0,262.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,15,0,253.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,7,0,341.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,48,0,319.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,27,0,293.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,150,0,271.0,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,27,0,253.54,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,122,0,360.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,18,0,255.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,2,0,268.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,181,0,298.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,82,0,294.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,82,0,344.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,157,0,280.33,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,179,0,273.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,72,0,271.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,25,0,272.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,0,0,269.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,281,0,261.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,16,0,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,45,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,32,0,300.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,25,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,22,0,324.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,23,0,306.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,27,0,326.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,51,0,319.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,60,0,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,175,0,258.29,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,108,0,260.6,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,25,0,265.86,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,25,0,273.56,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,76,0,304.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,182,0,275.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,60,0,257.75,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,95,0,310.75,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,64,0,271.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,9,0,254.67,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,117,0,315.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,49,0,305.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,59,0,331.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,69,0,378.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,34,0,315.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,1,0,339.4,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,187,0,277.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,45,0,263.33,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,129,0,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,40,0,283.5,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,122,0,253.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,26,0,310.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,24,0,275.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,26,0,253.49,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,113,0,273.86,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,155,0,268.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,26,0,270.51,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,26,0,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,19,0,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,1,0,299.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,4,0,349.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,5,0,372.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,138,0,259.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,150,0,292.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,11,0,343.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,26,0,397.38,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,11,0,316.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,38,0,294.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,109,0,266.0,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,235,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,231,0,315.33,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,6,0,291.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,1,0,269.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,97,0,294.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,217,0,255.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,8,0,324.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,2,0,300.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,23,0,307.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,43,0,257.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,24,0,264.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,31,0,426.25,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,38,0,264.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,32,0,276.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,95,0,328.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,40,0,387.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,3,0,282.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,131,0,266.0,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,25,0,254.31,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,43,0,296.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,157,0,314.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,31,0,283.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,104,0,255.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,128,0,368.1,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,51,0,284.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,38,0,271.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,62,0,290.67,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,262,0,288.03,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,176,0,268.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,38,0,302.5,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,84,0,335.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,5,0,260.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,3,0,324.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,1,0,295.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,89,0,282.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,3,0,283.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,256,0,258.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,43,0,270.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,11,0,284.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,45,0,276.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,59,0,289.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,43,0,316.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,33,0,330.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,43,0,269.43,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,155,0,284.7,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,105,0,275.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,177,0,329.67,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,6,0,300.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,121,0,372.71,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,220,0,252.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,254,0,258.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,204,0,0.0,adr<=0
+Resort Hotel,Direct,Transient-Party,No Deposit,273,0,264.6,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,44,0,262.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,44,0,337.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,20,0,254.0,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,5,0,255.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,224,0,311.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,320,0,258.0,adr>P99
+Resort Hotel,Direct,Transient-Party,No Deposit,20,0,260.5,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,36,0,297.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,56,0,284.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,57,0,283.43,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,56,0,270.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,57,0,270.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,50,0,299.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,38,0,296.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,365,0,322.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,59,0,262.0,adr>P99
+Resort Hotel,Offline TA/TO,Transient,No Deposit,4,0,306.7,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,3,0,265.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,70,0,276.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,164,0,267.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,32,0,273.09,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,176,0,279.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,43,0,337.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,63,0,286.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,24,0,392.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,69,0,320.7,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,178,0,262.5,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,3,0,271.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,12,0,264.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,64,0,388.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,7,0,260.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,33,0,310.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,87,0,332.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,104,0,402.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,118,0,264.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,227,0,276.6,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,29,0,272.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,21,0,284.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,27,0,317.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,19,0,266.0,adr>P99
+Resort Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,1,0,269.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,5,0,268.3,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,30,0,299.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,38,0,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,150,0,261.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,4,0,253.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,9,0,319.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,22,0,340.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,295,0,306.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,79,0,284.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,7,0,274.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,16,0,382.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,155,0,258.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,4,0,350.2,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,105,0,256.31,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,12,0,256.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,20,0,322.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,169,0,262.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,127,0,334.43,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,124,0,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,191,0,264.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,10,0,275.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,84,0,262.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,47,0,289.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,21,0,261.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,55,0,264.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,10,0,306.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,125,0,276.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,64,0,331.43,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,64,0,270.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,210,0,279.03,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,17,0,274.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,83,0,310.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,83,0,310.0,adr>P99
+Resort Hotel,Offline TA/TO,Transient-Party,No Deposit,122,0,253.8,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,48,0,262.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,42,0,262.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,83,0,291.43,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,33,0,315.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,306,0,311.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,220,0,258.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,5,0,274.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,64,0,265.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,13,0,292.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,22,0,314.67,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,22,0,302.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,25,0,279.33,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,34,0,253.65,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,315,0,282.03,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,33,0,282.32,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,27,0,326.71,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,6,0,267.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,36,0,259.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,102,0,281.43,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,5,0,269.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,43,0,293.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,92,0,328.33,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,250,0,266.43,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,34,0,330.57,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,184,0,257.5,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,41,0,266.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,26,0,350.75,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,26,0,292.5,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,268,0,275.4,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,6,0,344.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+Resort Hotel,Direct,Transient,No Deposit,81,0,351.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,34,0,256.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,28,0,276.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,12,0,295.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,66,0,276.46,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,56,0,262.0,adr>P99
+Resort Hotel,Online TA,Transient-Party,No Deposit,28,0,262.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,34,0,256.0,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,8,0,266.06,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,3,0,252.57,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,128,0,308.57,adr>P99
+Resort Hotel,Direct,Transient,No Deposit,37,0,277.67,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,21,0,277.71,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,5,0,336.57,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,142,0,289.86,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,37,0,298.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,38,0,284.29,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,178,0,383.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,3,0,261.0,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,15,0,257.75,adr>P99
+Resort Hotel,Online TA,Transient,No Deposit,87,0,0.0,adr<=0
+Resort Hotel,Online TA,Transient,No Deposit,194,0,312.29,adr>P99
+City Hotel,Offline TA/TO,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,18,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,12,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,12,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,20,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,20,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,132,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,132,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,132,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,15,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,15,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,19,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,19,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,25,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,25,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,28,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,28,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,34,0,0.0,adr<=0
+City Hotel,Corporate,Transient-Party,No Deposit,12,0,0.0,adr<=0
+City Hotel,Corporate,Transient-Party,No Deposit,12,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,34,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,36,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,36,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,16,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,16,0,0.0,adr<=0
+City Hotel,Online TA,Contract,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,39,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,39,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient-Party,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,41,0,0.0,adr<=0
+City Hotel,Online TA,Contract,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,39,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,10,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,53,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,50,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,50,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,55,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,55,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,15,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,15,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,7,0,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,63,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,3,1,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,3,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,3,1,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,1,1,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,55,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,55,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,69,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,69,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,168,0,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,168,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,168,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,76,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,76,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,76,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,14,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,14,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,74,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,75,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,75,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,60,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,60,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,60,1,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,83,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,83,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,30,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,56,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,192,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,68,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,68,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,61,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,33,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,97,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,97,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,30,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,210,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,210,1,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,79,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,79,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Contract,No Deposit,43,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,100,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,100,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,123,0,0.0,adr<=0
+City Hotel,Online TA,Contract,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,84,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,84,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,84,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,88,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,88,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,135,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,135,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,17,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,10,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,59,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,4,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,27,1,277.5,adr>P99
+City Hotel,Offline TA/TO,Transient,Non Refund,35,1,5400.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,5,1,254.0,adr>P99
+City Hotel,Groups,Transient,No Deposit,267,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,55,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,173,1,0.0,adr<=0
+City Hotel,Online TA,Contract,No Deposit,150,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,8,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,13,1,260.5,adr>P99
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,24,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,24,1,285.17,adr>P99
+City Hotel,Online TA,Transient,No Deposit,24,1,285.17,adr>P99
+City Hotel,Direct,Transient,No Deposit,89,1,257.55,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,316,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,316,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,282,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,50,1,260.9,adr>P99
+City Hotel,Online TA,Transient,No Deposit,198,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,244,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,244,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,244,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,14,1,273.0,adr>P99
+City Hotel,Offline TA/TO,Transient,No Deposit,169,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,61,1,256.1,adr>P99
+City Hotel,Online TA,Transient,No Deposit,119,1,264.1,adr>P99
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,21,1,299.33,adr>P99
+City Hotel,Offline TA/TO,Transient,No Deposit,75,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,195,0,0.0,adr<=0
+City Hotel,Online TA,Transient-Party,No Deposit,206,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,36,1,278.9,adr>P99
+City Hotel,Online TA,Transient,No Deposit,114,1,266.3,adr>P99
+City Hotel,Online TA,Transient,No Deposit,114,1,266.3,adr>P99
+City Hotel,Direct,Transient,No Deposit,45,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,14,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,2,1,256.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,1,283.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,22,1,288.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,111,1,262.7,adr>P99
+City Hotel,Complementary,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,20,1,265.93,adr>P99
+City Hotel,Online TA,Transient,No Deposit,11,1,306.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,22,1,284.1,adr>P99
+City Hotel,Online TA,Transient,No Deposit,8,1,259.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,2,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,29,1,279.2,adr>P99
+City Hotel,Complementary,Transient,No Deposit,4,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,26,1,294.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,64,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,71,1,263.91,adr>P99
+City Hotel,Complementary,Transient,No Deposit,7,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,71,1,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,54,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,9,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,78,1,274.2,adr>P99
+City Hotel,Direct,Transient,No Deposit,24,1,260.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,4,1,263.0,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,70,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,4,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,8,1,255.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,17,1,265.0,adr>P99
+City Hotel,Offline TA/TO,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,57,1,277.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,4,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,64,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,29,1,254.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,194,1,267.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,96,1,258.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,17,1,282.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,75,1,255.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,10,1,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,19,1,290.01,adr>P99
+City Hotel,Online TA,Transient,No Deposit,11,1,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,9,1,290.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,19,1,277.67,adr>P99
+City Hotel,Online TA,Transient,No Deposit,28,1,266.43,adr>P99
+City Hotel,Online TA,Transient,No Deposit,59,1,307.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,3,1,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,39,1,259.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,16,1,277.0,adr>P99
+City Hotel,Corporate,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,50,1,274.5,adr>P99
+City Hotel,Online TA,Transient,No Deposit,23,1,328.67,adr>P99
+City Hotel,Online TA,Transient,No Deposit,18,1,294.55,adr>P99
+City Hotel,Online TA,Transient,No Deposit,19,1,262.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,38,1,321.94,adr>P99
+City Hotel,Direct,Transient,No Deposit,21,1,290.56,adr>P99
+City Hotel,Online TA,Transient,No Deposit,8,1,254.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,4,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,4,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,1,265.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Corporate,Group,No Deposit,10,1,275.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,75,1,263.33,adr>P99
+City Hotel,Direct,Transient,No Deposit,31,1,279.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,28,1,279.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,80,1,270.0,adr>P99
+City Hotel,Corporate,Group,No Deposit,11,1,315.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,1,1,265.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,32,1,270.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,141,1,295.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,141,1,295.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,61,1,266.96,adr>P99
+City Hotel,Online TA,Transient,No Deposit,73,1,317.5,adr>P99
+City Hotel,Online TA,Transient,No Deposit,89,1,280.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,73,1,270.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,37,1,270.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,70,1,258.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,80,1,285.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,80,1,315.0,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,434,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,3,1,259.88,adr>P99
+City Hotel,Direct,Transient,No Deposit,3,1,289.88,adr>P99
+City Hotel,Online TA,Transient,No Deposit,29,1,260.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,27,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,30,1,315.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,91,1,256.5,adr>P99
+City Hotel,Online TA,Transient-Party,No Deposit,74,0,318.5,adr>P99
+City Hotel,Direct,Transient,No Deposit,18,1,276.9,adr>P99
+City Hotel,Direct,Transient,No Deposit,19,1,277.15,adr>P99
+City Hotel,Online TA,Transient,No Deposit,38,1,267.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,109,1,255.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,64,1,265.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,31,1,273.7,adr>P99
+City Hotel,Online TA,Transient,No Deposit,21,1,307.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,45,1,287.5,adr>P99
+City Hotel,Direct,Transient,No Deposit,134,1,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,80,1,287.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,69,1,289.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,266,1,256.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,72,1,305.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,19,1,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,216,1,256.5,adr>P99
+City Hotel,Online TA,Transient,No Deposit,31,1,352.5,adr>P99
+City Hotel,Online TA,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,25,1,266.96,adr>P99
+City Hotel,Online TA,Transient,No Deposit,29,1,254.96,adr>P99
+City Hotel,Direct,Transient,No Deposit,123,1,260.0,adr>P99
+City Hotel,Direct,Group,No Deposit,0,1,318.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,150,1,257.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,161,1,282.5,adr>P99
+City Hotel,Online TA,Transient,No Deposit,135,1,272.5,adr>P99
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,71,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,241,0,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,241,1,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,241,1,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,153,1,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,136,1,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,147,1,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,147,1,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,264,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,264,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,271,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,271,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,256,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,110,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,12,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,49,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,14,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,41,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Corporate,Group,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,53,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Contract,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Contract,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,256,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,327,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,6,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,256,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,263,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,43,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,43,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,43,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,17,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,3,0,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,224,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,8,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,8,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,12,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,23,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,16,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,2,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,282,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,26,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,289,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,37,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,1,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Online TA,Contract,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Group,No Deposit,0,1,290.0,adr>P99
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,64,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,8,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,4,0,259.0,adr>P99
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,43,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,43,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,43,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,43,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,33,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,21,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,244,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,244,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,24,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,17,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Contract,No Deposit,6,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,32,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,32,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,73,0,0.0,adr<=0
+City Hotel,Online TA,Contract,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,8,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,47,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,47,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,1,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,11,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,14,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,14,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,9,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Group,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,12,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,61,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,61,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,15,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,19,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,83,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,83,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,83,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,178,1,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,178,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,15,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,49,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,72,1,276.53,adr>P99
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Contract,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,2,0,268.17,adr>P99
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Group,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,13,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,37,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,11,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,12,0,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient-Party,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,21,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,13,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,33,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,19,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,16,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,3,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Corporate,Transient-Party,No Deposit,4,0,0.0,adr<=0
+City Hotel,Corporate,Transient-Party,No Deposit,0,0,0.0,adr<=0
+City Hotel,Corporate,Transient-Party,No Deposit,4,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,116,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,8,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,1,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,115,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,63,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,65,1,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,23,0,285.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,122,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,57,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,3,0,253.67,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,50,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,81,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,9,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,9,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,122,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,10,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,12,1,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,10,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,31,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,14,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,14,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,13,0,260.4,adr>P99
+City Hotel,Direct,Transient,No Deposit,39,0,265.0,adr>P99
+City Hotel,Offline TA/TO,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,33,0,0.0,adr<=0
+City Hotel,Online TA,Group,No Deposit,166,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,95,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,10,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,10,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,143,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,101,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Corporate,Transient-Party,No Deposit,16,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,142,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,180,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,56,0,0.0,adr<=0
+City Hotel,Direct,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,30,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient-Party,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,31,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,24,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient-Party,No Deposit,0,0,0.0,adr<=0
+City Hotel,Corporate,Transient-Party,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,198,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,7,0,296.0,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,198,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,198,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,67,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,14,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,11,0,258.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,6,0,261.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,9,0,257.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,44,0,0.0,adr<=0
+City Hotel,Corporate,Transient-Party,No Deposit,5,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,10,0,266.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,102,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,95,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,17,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,228,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,28,0,332.57,adr>P99
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,9,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,247,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,220,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,220,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,119,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,57,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,16,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,107,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,4,0,263.55,adr>P99
+City Hotel,Direct,Transient,No Deposit,72,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,46,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,15,0,278.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,15,0,278.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,145,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,145,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,11,0,267.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,151,0,300.0,adr>P99
+City Hotel,Aviation,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,8,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,4,0,306.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,0,0,265.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,159,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,7,0,267.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,36,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,28,0,277.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,13,0,265.44,adr>P99
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,65,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,99,0,269.3,adr>P99
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,158,0,294.35,adr>P99
+City Hotel,Online TA,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,173,0,365.0,adr>P99
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,173,0,300.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,198,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,172,0,300.0,adr>P99
+City Hotel,Offline TA/TO,Transient,No Deposit,170,0,300.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,12,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,49,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,1,1,0.0,adr<=0
+City Hotel,Complementary,Transient-Party,No Deposit,1,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,15,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,127,0,253.5,adr>P99
+City Hotel,Direct,Transient,No Deposit,108,0,253.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,96,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,206,0,309.5,adr>P99
+City Hotel,Online TA,Transient,No Deposit,22,0,297.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,145,0,269.3,adr>P99
+City Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,44,0,259.2,adr>P99
+City Hotel,Direct,Transient,No Deposit,158,0,252.9,adr>P99
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,6,0,316.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,10,0,276.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,13,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,24,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,12,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,320,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,17,0,286.2,adr>P99
+City Hotel,Online TA,Transient,No Deposit,16,0,283.67,adr>P99
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,17,0,280.0,adr>P99
+City Hotel,Online TA,Contract,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,143,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,121,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,94,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,94,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,121,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,2,0,258.0,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,233,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,65,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,63,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient-Party,No Deposit,125,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,176,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,21,0,345.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,24,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,346,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,10,0,289.0,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,315,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,245,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,23,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,270.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,275.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,1,0,275.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,271,0,0.0,adr<=0
+City Hotel,Direct,Transient-Party,No Deposit,33,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,42,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,4,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,6,0,295.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,80,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,80,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,3,0,266.67,adr>P99
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,328,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,100,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,328,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,9,0,278.33,adr>P99
+City Hotel,Online TA,Transient,No Deposit,10,0,254.5,adr>P99
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,109,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,8,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,23,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,15,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,338,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,182,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,335,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,114,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,165,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,18,0,300.0,adr>P99
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,10,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Corporate,Transient-Party,No Deposit,88,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,274,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,42,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,18,0,0.0,adr<=0
+City Hotel,Aviation,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,32,0,0.0,adr<=0
+City Hotel,Complementary,Group,No Deposit,23,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,13,0,260.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,9,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,25,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,32,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,78,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,91,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Group,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,24,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient,No Deposit,216,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,14,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Corporate,Transient-Party,No Deposit,22,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,45,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,38,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,36,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,38,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,36,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,23,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,28,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,38,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,32,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,59,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,19,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,43,0,349.63,adr>P99
+City Hotel,Online TA,Transient,No Deposit,21,0,375.5,adr>P99
+City Hotel,Direct,Transient-Party,No Deposit,81,0,451.5,adr>P99
+City Hotel,Direct,Transient-Party,No Deposit,81,0,254.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,57,0,314.1,adr>P99
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,32,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,10,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,61,0,255.48,adr>P99
+City Hotel,Online TA,Transient,No Deposit,240,0,253.1,adr>P99
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,23,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Aviation,Transient,No Deposit,1,1,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Direct,Group,No Deposit,1,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,15,0,284.2,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,17,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,8,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,25,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,23,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,20,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,8,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,53,0,268.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,203,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,32,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,24,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,272.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,15,0,259.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,63,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,70,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,20,0,258.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,23,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,3,0,275.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,28,0,284.2,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,134,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,134,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,11,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,49,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,14,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,26,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,43,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,37,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,13,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,51,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,115,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,17,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,26,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,64,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,41,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,9,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,63,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,90,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,57,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,12,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,4,0,269.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,25,0,295.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,8,0,289.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,36,0,312.5,adr>P99
+City Hotel,Online TA,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,66,0,253.33,adr>P99
+City Hotel,Online TA,Transient,No Deposit,7,0,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,7,0,269.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,36,0,261.67,adr>P99
+City Hotel,Direct,Transient,No Deposit,71,0,255.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,34,0,255.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,10,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,44,0,295.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,3,0,336.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,23,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,132,1,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Corporate,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,5,0,275.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,3,0,287.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,14,0,324.5,adr>P99
+City Hotel,Direct,Transient,No Deposit,39,0,289.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,4,0,270.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,12,0,260.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,12,0,285.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,6,0,259.29,adr>P99
+City Hotel,Online TA,Transient,No Deposit,138,0,253.2,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,9,0,252.5,adr>P99
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,1,0,260.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,17,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,41,0,259.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,8,0,290.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,7,0,316.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,510.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,0,0,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,0,0,260.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,285.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,285.0,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,35,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,32,0,267.86,adr>P99
+City Hotel,Direct,Transient,No Deposit,66,0,295.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,59,0,265.0,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,31,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,6,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,76,0,265.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,68,0,260.5,adr>P99
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,395,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,305.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,20,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,3,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,105,0,261.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,79,0,270.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,75,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,45,0,270.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,19,0,268.33,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,75,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,5,0,270.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,22,0,265.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,35,0,335.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,14,0,335.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,11,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,86,0,313.67,adr>P99
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,51,0,260.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,12,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,51,0,260.0,adr>P99
+City Hotel,Aviation,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,26,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,15,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,8,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,4,0,280.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,6,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,434,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,22,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,43,0,259.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,99,0,275.0,adr>P99
+City Hotel,Online TA,Transient-Party,No Deposit,74,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,175,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,28,0,256.67,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,265.0,adr>P99
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,10,0,255.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,7,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,40,0,0.0,adr<=0
+City Hotel,Direct,Transient-Party,No Deposit,5,0,295.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,103,0,271.67,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,448,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,2,0,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,13,0,270.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,2,0,333.67,adr>P99
+City Hotel,Online TA,Transient,No Deposit,13,0,307.8,adr>P99
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,17,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,2,0,295.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,26,0,269.5,adr>P99
+City Hotel,Aviation,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Aviation,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,2,0,295.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Groups,Transient-Party,No Deposit,462,0,0.0,adr<=0
+City Hotel,Direct,Transient-Party,No Deposit,15,0,0.0,adr<=0
+City Hotel,Direct,Transient-Party,No Deposit,15,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,15,0,270.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,24,0,338.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,117,0,295.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,80,0,297.25,adr>P99
+City Hotel,Online TA,Transient,No Deposit,1,0,264.44,adr>P99
+City Hotel,Direct,Transient,No Deposit,101,0,255.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,100,0,273.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,1,0,283.0,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,451,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Group,No Deposit,468,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,51,0,321.5,adr>P99
+City Hotel,Complementary,Transient,No Deposit,5,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,32,0,295.0,adr>P99
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,476,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,2,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,63,0,300.71,adr>P99
+City Hotel,Online TA,Transient,No Deposit,14,0,259.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,115,0,277.5,adr>P99
+City Hotel,Online TA,Transient,No Deposit,143,0,256.5,adr>P99
+City Hotel,Direct,Transient,No Deposit,15,0,285.0,adr>P99
+City Hotel,Direct,Transient-Party,No Deposit,14,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,53,0,256.72,adr>P99
+City Hotel,Direct,Transient,No Deposit,93,0,300.0,adr>P99
+City Hotel,Complementary,Transient,No Deposit,85,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,465,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,127,0,282.5,adr>P99
+City Hotel,Offline TA/TO,Transient,No Deposit,170,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,4,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,47,0,307.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,129,0,260.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,207,0,268.5,adr>P99
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,166,0,280.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,159,0,260.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,24,0,266.2,adr>P99
+City Hotel,Direct,Transient,No Deposit,175,0,260.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,156,0,260.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,99,0,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,12,0,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,70,0,270.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,1,0,279.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,206,0,256.5,adr>P99
+City Hotel,Offline TA/TO,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,0,0,269.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,23,0,270.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,211,0,256.5,adr>P99
+City Hotel,Online TA,Transient,No Deposit,64,0,305.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,13,0,270.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,22,0,293.75,adr>P99
+City Hotel,Online TA,Transient,No Deposit,29,0,270.0,adr>P99
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,479,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient,No Deposit,14,0,275.9,adr>P99
+City Hotel,Direct,Transient,No Deposit,1,0,290.0,adr>P99
+City Hotel,Online TA,Transient-Party,No Deposit,9,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,202,0,255.5,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,504,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,127,0,300.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,4,0,290.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,72,0,267.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,190,0,326.5,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,259.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,45,0,259.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,190,0,326.5,adr>P99
+City Hotel,Direct,Transient,No Deposit,10,0,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,12,0,279.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,10,0,260.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,10,0,260.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,72,0,259.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,139,0,300.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,23,0,264.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,19,0,270.0,adr>P99
+City Hotel,Offline TA/TO,Transient,No Deposit,23,0,283.23,adr>P99
+City Hotel,Direct,Transient,No Deposit,14,0,372.33,adr>P99
+City Hotel,Online TA,Transient,No Deposit,6,0,264.44,adr>P99
+City Hotel,Offline TA/TO,Transient-Party,No Deposit,78,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,161,0,282.5,adr>P99
+City Hotel,Complementary,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,200,0,294.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,1,0,0.0,adr<=0
+City Hotel,Online TA,Transient,No Deposit,8,0,253.51,adr>P99
+City Hotel,Offline TA/TO,Group,No Deposit,0,0,270.0,adr>P99
+City Hotel,Groups,Transient-Party,No Deposit,518,0,0.0,adr<=0
+City Hotel,Complementary,Transient,No Deposit,0,0,0.0,adr<=0
+City Hotel,Direct,Transient,No Deposit,130,0,300.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,52,0,258.0,adr>P99
+City Hotel,Online TA,Transient,No Deposit,5,0,259.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,0,0,270.0,adr>P99
+City Hotel,Direct,Transient,No Deposit,54,0,266.75,adr>P99

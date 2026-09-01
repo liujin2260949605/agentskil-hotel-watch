@@ -1,0 +1,9 @@
+﻿维度,维度取值,总单量,取消量,取消率,样本量标记,风险标记
+market_segment,Undefined,2,2,1.0,小样本(<30),仅展示
+market_segment,Groups,19811,12097,0.6106,充足(>=100),重点风险
+market_segment,Online TA,56477,20739,0.3672,充足(>=100),正常
+market_segment,Offline TA/TO,24219,8311,0.3432,充足(>=100),正常
+market_segment,Aviation,237,52,0.2194,充足(>=100),正常
+market_segment,Corporate,5295,992,0.1873,充足(>=100),正常
+market_segment,Direct,12606,1934,0.1534,充足(>=100),正常
+market_segment,Complementary,743,97,0.1306,充足(>=100),正常

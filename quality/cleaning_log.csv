@@ -1,0 +1,7 @@
+﻿表,字段,动作,行数,原因,填充值,取值范围
+bookings,(整表),重复行 report_only,31994,无可靠 booking_id，默认仅报告不删除,,重复组 40165 行
+bookings,children,缺失填充 0,4,children 缺失（影响 total_guests）,0,
+bookings,country,缺失填充 Unknown,488,国家维度统计需完整覆盖,Unknown,
+bookings,agent,构造存在标记 has_agent,119390,缺失 16340 行（13.69%），不作为主分析字段,,
+bookings,company,构造存在标记 has_company,119390,缺失 112593 行（94.31%），不作为主分析字段,,
+bookings,adr,转数值并标记异常,119390,adr<=0 或 adr>P99 标记为异常，不删除,,P99=252.0

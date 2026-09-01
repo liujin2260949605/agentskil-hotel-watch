@@ -1,0 +1,23 @@
+﻿维度,维度取值,总单量,取消量,取消率,样本量标记,风险标记
+hotel,City Hotel,79330,33102,0.4173,充足(>=100),风险信号
+hotel,Resort Hotel,40060,11122,0.2776,充足(>=100),正常
+market_segment,Undefined,2,2,1.0,小样本(<30),仅展示
+market_segment,Groups,19811,12097,0.6106,充足(>=100),重点风险
+market_segment,Online TA,56477,20739,0.3672,充足(>=100),正常
+market_segment,Offline TA/TO,24219,8311,0.3432,充足(>=100),正常
+market_segment,Aviation,237,52,0.2194,充足(>=100),正常
+market_segment,Corporate,5295,992,0.1873,充足(>=100),正常
+market_segment,Direct,12606,1934,0.1534,充足(>=100),正常
+market_segment,Complementary,743,97,0.1306,充足(>=100),正常
+distribution_channel,Undefined,5,4,0.8,小样本(<30),仅展示
+distribution_channel,TA/TO,97870,40152,0.4103,充足(>=100),风险信号
+distribution_channel,Corporate,6677,1474,0.2208,充足(>=100),正常
+distribution_channel,GDS,193,37,0.1917,充足(>=100),正常
+distribution_channel,Direct,14645,2557,0.1746,充足(>=100),正常
+deposit_type,Non Refund,14587,14494,0.9936,充足(>=100),重点风险【待人工审核】
+deposit_type,No Deposit,104641,29694,0.2838,充足(>=100),正常
+deposit_type,Refundable,162,36,0.2222,充足(>=100),正常
+customer_type,Transient,89613,36514,0.4075,充足(>=100),风险信号
+customer_type,Contract,4076,1262,0.3096,充足(>=100),正常
+customer_type,Transient-Party,25124,6389,0.2543,充足(>=100),正常
+customer_type,Group,577,59,0.1023,充足(>=100),正常
