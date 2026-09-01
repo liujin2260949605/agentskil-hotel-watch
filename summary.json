@@ -1,0 +1,369 @@
+{
+  "skill": "hotel-cancellation-revenue-watchdog",
+  "generated_at": "2026-08-26 21:17:52",
+  "input": {
+    "file": "E:\\10-workbuddy-skill\\酒店预订取消率预警与收益巡检智能体\\data\\hotel_bookings.csv",
+    "encoding": "utf-8-sig",
+    "rows": 119390,
+    "cols": 32
+  },
+  "field_mapping": {
+    "hotel": "hotel",
+    "is_canceled": "is_canceled",
+    "adr": "adr",
+    "lead_time": "lead_time",
+    "market_segment": "market_segment",
+    "distribution_channel": "distribution_channel",
+    "deposit_type": "deposit_type",
+    "customer_type": "customer_type",
+    "reserved_room_type": "reserved_room_type",
+    "assigned_room_type": "assigned_room_type",
+    "required_car_parking_spaces": "required_car_parking_spaces",
+    "total_of_special_requests": "total_of_special_requests",
+    "adults": "adults",
+    "children": "children",
+    "babies": "babies",
+    "stays_in_weekend_nights": "stays_in_weekend_nights",
+    "stays_in_week_nights": "stays_in_week_nights",
+    "arrival_date_year": "arrival_date_year",
+    "arrival_date_month": "arrival_date_month",
+    "arrival_date_day_of_month": "arrival_date_day_of_month",
+    "reservation_status": "reservation_status",
+    "reservation_status_date": "reservation_status_date",
+    "country": "country",
+    "agent": "agent",
+    "company": "company"
+  },
+  "field_inference": [],
+  "fact_table_role": "预订事实表（一行一订单）",
+  "date_range_original": [
+    "2015-07-01",
+    "2017-08-31"
+  ],
+  "window": {
+    "start": "2015-07-01",
+    "end": "2017-08-31",
+    "end_inclusive": true,
+    "rows_in_window": 119390,
+    "rows_excluded": 0
+  },
+  "thresholds_effective": {
+    "min_sample_size": 30,
+    "min_sample_for_risk": 100,
+    "cancellation_rate_alert": 0.4,
+    "cancellation_rate_critical": 0.6,
+    "non_refund_cancel_alert": 0.9,
+    "room_change_rate_alert": 0.15,
+    "adr_extreme_percentile": 99
+  },
+  "threshold_overrides": [],
+  "kpi": {
+    "overall_cancellation": {
+      "numerator": 44224,
+      "denominator": 119390,
+      "rate": 0.37041628277075134
+    },
+    "cancellation_Resort_Hotel": {
+      "numerator": 11122,
+      "denominator": 40060,
+      "rate": 0.27763354967548676
+    },
+    "cancellation_City_Hotel": {
+      "numerator": 33102,
+      "denominator": 79330,
+      "rate": 0.41726963317786464
+    },
+    "adr_median": 94.575,
+    "room_change_rate": {
+      "numerator": 14917,
+      "denominator": 119390,
+      "rate": 0.12494346260155792
+    }
+  },
+  "cleaning_summary": [
+    {
+      "表": "bookings",
+      "字段": "(整表)",
+      "动作": "重复行 report_only",
+      "行数": 31994,
+      "原因": "无可靠 booking_id，默认仅报告不删除",
+      "填充值": "",
+      "取值范围": "重复组 40165 行"
+    },
+    {
+      "表": "bookings",
+      "字段": "children",
+      "动作": "缺失填充 0",
+      "行数": 4,
+      "原因": "children 缺失（影响 total_guests）",
+      "填充值": "0",
+      "取值范围": ""
+    },
+    {
+      "表": "bookings",
+      "字段": "country",
+      "动作": "缺失填充 Unknown",
+      "行数": 488,
+      "原因": "国家维度统计需完整覆盖",
+      "填充值": "Unknown",
+      "取值范围": ""
+    },
+    {
+      "表": "bookings",
+      "字段": "agent",
+      "动作": "构造存在标记 has_agent",
+      "行数": 119390,
+      "原因": "缺失 16340 行（13.69%），不作为主分析字段",
+      "填充值": "",
+      "取值范围": ""
+    },
+    {
+      "表": "bookings",
+      "字段": "company",
+      "动作": "构造存在标记 has_company",
+      "行数": 119390,
+      "原因": "缺失 112593 行（94.31%），不作为主分析字段",
+      "填充值": "",
+      "取值范围": ""
+    },
+    {
+      "表": "bookings",
+      "字段": "adr",
+      "动作": "转数值并标记异常",
+      "行数": 119390,
+      "原因": "adr<=0 或 adr>P99 标记为异常，不删除",
+      "填充值": "",
+      "取值范围": "P99=252.0"
+    }
+  ],
+  "missing_required_fields": [],
+  "degraded_analyses": [],
+  "leakage_field_excluded": {
+    "reservation_status_excluded_from_inputs": true,
+    "usage": "仅用于数据质量一致性审计，未进入任何预警输入字段"
+  },
+  "duplicates": {
+    "extra_rows": 31994,
+    "group_rows": 40165,
+    "action": "report_only（未删除）"
+  },
+  "blockers": [],
+  "warnings": [
+    "存在 31,994 条多余重复行（report_only，未删除）"
+  ],
+  "manual_review_items": [
+    {
+      "事项": "无 booking_id 且重复行占比超过 20%",
+      "证据": "重复组 40,165/119,390 行（33.64%），数据无唯一订单 ID",
+      "建议": "确认重复属于口径还是采集问题后再决定是否去重【待人工审核】"
+    },
+    {
+      "事项": "deposit_type×customer_type 组合「Non Refund × Contract」取消率 100.00%",
+      "证据": "取消 544/544（充足(>=100)）；风险标记：重点风险【待人工审核】",
+      "建议": "疑似口径或业务定义问题，需人工确认【待人工审核】"
+    },
+    {
+      "事项": "deposit_type×customer_type 组合「Non Refund × Transient」取消率 100.00%",
+      "证据": "取消 12909/12909（充足(>=100)）；风险标记：重点风险【待人工审核】",
+      "建议": "疑似口径或业务定义问题，需人工确认【待人工审核】"
+    },
+    {
+      "事项": "distribution_channel×deposit_type 组合「TA/TO × Non Refund」取消率 99.61%",
+      "证据": "取消 13598/13651（充足(>=100)）；风险标记：重点风险【待人工审核】",
+      "建议": "疑似口径或业务定义问题，需人工确认【待人工审核】"
+    },
+    {
+      "事项": "distribution_channel×deposit_type 组合「Direct × Non Refund」取消率 97.49%",
+      "证据": "取消 388/398（充足(>=100)）；风险标记：重点风险【待人工审核】",
+      "建议": "疑似口径或业务定义问题，需人工确认【待人工审核】"
+    },
+    {
+      "事项": "distribution_channel×deposit_type 组合「Corporate × Non Refund」取消率 94.42%",
+      "证据": "取消 508/538（充足(>=100)）；风险标记：重点风险【待人工审核】",
+      "建议": "疑似口径或业务定义问题，需人工确认【待人工审核】"
+    },
+    {
+      "事项": "deposit_type×customer_type 组合「Non Refund × Transient-Party」取消率 91.80%",
+      "证据": "取消 1041/1134（充足(>=100)）；风险标记：重点风险【待人工审核】",
+      "建议": "疑似口径或业务定义问题，需人工确认【待人工审核】"
+    },
+    {
+      "事项": "Non Refund 押金类型取消率 99.36%",
+      "证据": "取消 14494/14587（充足(>=100)）",
+      "建议": "可能是业务定义或状态口径问题，不得直接下押金策略失败结论【待人工审核】"
+    },
+    {
+      "事项": "小样本组出现高取消率",
+      "证据": "market_segment=Undefined（取消 2/2）；distribution_channel=Undefined（取消 4/5）；country=JEY（取消 8/8）；country=BEN（取消 3/3）；country=GGY（取消 3/3）；country=GLP（取消 2/2）；country=IMN（取消 2/2）；country=KHM（取消 2/2）",
+      "建议": "小样本不足以支撑结论，仅提示观察【待人工审核】"
+    }
+  ],
+  "statistical_analysis": {
+    "chi2_count": 8,
+    "corr_count": 15,
+    "logistic_count": 21,
+    "chi2_sig": 8,
+    "corr_sig": 13,
+    "logistic_sig": 12,
+    "top_categorical": [
+      [
+        "deposit_type",
+        0.4815,
+        0.0,
+        "***",
+        "强"
+      ],
+      [
+        "lead_time",
+        0.3162,
+        0.0,
+        "***",
+        "强"
+      ],
+      [
+        "market_segment",
+        0.2668,
+        0.0,
+        "***",
+        "中"
+      ],
+      [
+        "assigned_room_type",
+        0.203,
+        0.0,
+        "***",
+        "中"
+      ],
+      [
+        "distribution_channel",
+        0.1771,
+        0.0,
+        "***",
+        "中"
+      ]
+    ],
+    "top_numeric": [
+      [
+        "lead_time",
+        0.2931,
+        0.3166,
+        0.0,
+        "***",
+        "正相关"
+      ],
+      [
+        "total_of_special_requests",
+        -0.2347,
+        -0.2585,
+        0.0,
+        "***",
+        "负相关"
+      ],
+      [
+        "required_car_parking_spaces",
+        -0.1955,
+        -0.1974,
+        0.0,
+        "***",
+        "负相关"
+      ],
+      [
+        "booking_changes",
+        -0.1444,
+        -0.1851,
+        0.0,
+        "***",
+        "负相关"
+      ],
+      [
+        "previous_cancellations",
+        0.1101,
+        0.2702,
+        8.9327e-319,
+        "***",
+        "正相关"
+      ]
+    ],
+    "top_logistic": [
+      [
+        "deposit_type_Non Refund",
+        323.4456,
+        0.0,
+        "***",
+        "OR=323.45，每增1单位取消概率升高"
+      ],
+      [
+        "distribution_channel_Undefined",
+        15.7643,
+        0.04218572135468276,
+        "*",
+        "OR=15.76，每增1单位取消概率升高"
+      ],
+      [
+        "market_segment_Offline TA/TO",
+        0.4642,
+        7.85369360444537e-06,
+        "***",
+        "OR=0.46，每增1单位取消概率降低"
+      ],
+      [
+        "customer_type_Transient",
+        1.726,
+        1.232788957362343e-34,
+        "***",
+        "OR=1.73，每增1单位取消概率升高"
+      ],
+      [
+        "customer_type_Group",
+        0.6043,
+        0.0009516770222561965,
+        "***",
+        "OR=0.60，每增1单位取消概率降低"
+      ]
+    ],
+    "note": "普通 fit 失败（共线），改用 L1 正则化（无 p 值，仅参考系数方向与 OR）"
+  },
+  "files_generated": [
+    "PBL交付物/01_重复性工作定义.md",
+    "PBL交付物/02_Workflow流程说明.md",
+    "PBL交付物/03_Skill文档.md",
+    "PBL交付物/04_工具清单.md",
+    "PBL交付物/05_示例输出/ADR异常清单.csv",
+    "PBL交付物/05_示例输出/人工复核清单.md",
+    "PBL交付物/05_示例输出/取消率预警_五维汇总表.csv",
+    "PBL交付物/05_示例输出/示例输出说明.md",
+    "PBL交付物/05_示例输出/资源匹配巡检表.csv",
+    "PBL交付物/06_风险说明.md",
+    "PBL交付物/README.md",
+    "charts/adr_distribution_boxplot.png",
+    "charts/cancellation_by_dimensions.png",
+    "charts/cross_risk_heatmap.png",
+    "charts/kpi_overview.png",
+    "charts/resource_matching_bars.png",
+    "clean-data/bookings_clean.csv",
+    "clean-data/bookings_derived.csv",
+    "deep-diagnosis/cancellation_concentration.csv",
+    "deep-diagnosis/risk_amplifiers.csv",
+    "deep-diagnosis/trend_comparison.csv",
+    "detail-tables/adr_anomaly_list.csv",
+    "detail-tables/risk_combinations.csv",
+    "detail-tables/room_resource_check.csv",
+    "hotel_watchdog_report.md",
+    "quality/cleaning_log.csv",
+    "quality/data_quality.csv",
+    "risk-tables/adr_by_dimensions.csv",
+    "risk-tables/cancellation_by_channel.csv",
+    "risk-tables/cancellation_by_customer_type.csv",
+    "risk-tables/cancellation_by_deposit.csv",
+    "risk-tables/cancellation_by_hotel.csv",
+    "risk-tables/cancellation_by_market_segment.csv",
+    "risk-tables/cancellation_summary.csv",
+    "risk-tables/cross_analysis_results.csv",
+    "risk-tables/dimension_risk_table.csv",
+    "statistics/chi2_results.csv",
+    "statistics/correlation_results.csv",
+    "statistics/logistic_summary.csv",
+    "statistics/variable_importance.png",
+    "summary.json"
+  ]
+}
